@@ -1,7 +1,7 @@
 # Micrograd
 
 Following Building Micrograd tutorial by Andrej Karpathy
-[Link to Vide](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+[Link to Video](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 Concepts Learned
 
 - How ML libraries work under the hood
